@@ -1,3 +1,8 @@
 # wellshs.github.io
 
-github blog를 위한 폴더입니다.
+github blog for wellshs
+
+
+## prerequisites
+rbenv local 3.3.4
+gem install jekyll bundler
